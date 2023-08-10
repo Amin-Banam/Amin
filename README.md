@@ -1,11 +1,11 @@
 # Amin
 ![viewfinal](assets/image/logo.png)
 
-- [Demo Project]()
+- [Demo Project](https://amin-banam.github.io/Amin/)
 
 - Developed by amin-banam
 
-- Created - 2023-07-30
+- Created - 2023-10-08
 
 - Technologies Used - Html , CSS ,Scss ,Bootstrap
 
