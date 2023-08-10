@@ -1,5 +1,5 @@
 # Amin
-![viewfinal]()
+![viewfinal](assets/image/logo.png)
 
 - [Demo Project]()
 
